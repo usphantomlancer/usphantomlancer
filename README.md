@@ -20,18 +20,19 @@ Welcome to my corner of the coding universe! 🚀 I'm passionate about building 
 - **Effective Communication**: Clear and concise communication is key. I ensure all stakeholders are on the same page throughout the development process.
 - **Proven Track Record**: Recognized with the Top Rated Badge on Upwork and maintaining a 100% Job Success Score, I bring a history of successful project outcomes and satisfied clients.
 
-Let's build something great together! 🚧🌟
-
 
 ## 🏆 Upwork Success
 
 🌟 **Top Rated Badge**: Recognized as a Top Rated freelancer on Upwork, indicating consistent high-quality work and client satisfaction.
+
 💯 **Job Success Score**: Maintained a perfect 100% Job Success Score, reflecting successful project outcomes and satisfied clients.
 
 
 ## 📫 Let's Connect
 
 Feel free to reach out for collaboration, questions, or just to say hi! 🤝
+
+Let's build something great together! 🚧🌟
 
 Happy coding! 🚀✨
 
